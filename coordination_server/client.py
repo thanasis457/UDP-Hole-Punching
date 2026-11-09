@@ -105,7 +105,7 @@ class ClientConnection():
                 res = self.socket.sendall(json.dumps({
                     "messageType":2,
                     "peer": {
-                        "ip": ip,
+                        "address": ip,
                         "port": int(port)
                     }
                 }).encode())
