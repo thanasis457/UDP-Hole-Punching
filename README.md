@@ -3,6 +3,8 @@
 A peer-to-peer messaging project that uses a UDP coordination server to help
 clients discover one another and establish direct UDP connections through NAT.
 
+![UDP Hole Punching client](https://i.imgur.com/dWXLMad.png)
+
 The repository contains two cooperating applications:
 
 - [`coordination_server/`](./coordination_server): a Dart UDP coordinator and
