@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+        {
+            "name": "Python Debugger: Python File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "python": "/Users/thanasis/micromamba/envs/New_env/bin/python"
+        }
+    ]
+}
