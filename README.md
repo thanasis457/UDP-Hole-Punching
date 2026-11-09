@@ -3,7 +3,9 @@
 A peer-to-peer messaging project that uses a UDP coordination server to help
 clients discover one another and establish direct UDP connections through NAT.
 
-![UDP Hole Punching client](https://i.imgur.com/dWXLMad.png)
+<p align="center">
+  <img src="https://i.imgur.com/dWXLMad.png" alt="UDP Hole Punching client" width="450">
+</p>
 
 The repository contains two cooperating applications:
 
